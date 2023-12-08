@@ -18,7 +18,7 @@ const Blog = () => {
       <Link href="/info">
       <button id='blog-to-info'> Go to Info</button>
       </Link>
-      <Link href="/home">
+      <Link href="/">
       <button id='blog-to-home'> Go to Home</button>
       </Link>
     </div>
